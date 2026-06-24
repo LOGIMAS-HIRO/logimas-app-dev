@@ -1,6 +1,1 @@
-streamlit
-pandas
-openpyxl
-xlsxwriter
-reportlab
-psycopg2-binary
+# logimas-app
